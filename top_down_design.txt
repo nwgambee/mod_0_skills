@@ -1,0 +1,24 @@
+How to Become a Turing Student:
+
+1. Begin 1909 Classes
+  1.1 Enroll in classes
+    1.1.1 Get accepted as a student
+    1.1.2 interview with a Turing faculty member
+  1.2 Complete Module 0
+    1.2.1 submit capstone
+    1.2.2 complete technical assessment
+
+2. Apply for Turing
+  2.1 Open up internet browser
+  2.2 Go to Turing website
+    2.2.1 click on `Apply now`
+      2.2.1.1 Enter in name and email
+      2.2.1.2 Complete Logic evaluation
+      2.2.1.3 Submit application
+
+
+3. Choose Turing as the school you want to go to
+  3.1 compare Turing against other schools
+    3.1.1 research software engineering schools
+      3.1.1.1 google `programming schools near me`
+  3.2 Ask people in the industry for advice on schools
