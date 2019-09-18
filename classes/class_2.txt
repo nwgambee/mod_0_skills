@@ -1,0 +1,18 @@
+Class : Oven
+
+Attributes :
+
+color (string)
+manufacturer (string)
+maxTemp (integer)
+currentTemp (integer)
+weight (integer)
+turnedOn (boolean)
+foodInside (boolean)
+
+Methods :
+
+paintOven : (updates color attribute)
+turnOvenOn : (updates turnedOn attribute to true)
+putFoodInside : (updates foodInside attribute to true)
+removeAllFood : (updates foodInside attribute to false)
