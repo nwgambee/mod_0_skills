@@ -12,5 +12,5 @@ Methods:
 
 calculatePercentFull : (50/56)*100 = 89
 addTable : numberOfTables = 29
-removeTable : numberOfTables = 27
+removeTable : numberOfTables = 28
 addNewRoom : squareFootage = 1500
