@@ -1,0 +1,16 @@
+Object: Noah's Restaurant Seating Area
+
+Attributes:
+
+guestCapacity : 56
+currentNumberOfGuests : 50
+squareFootage : 1200
+numberOfTables : 28
+atCapacity : false
+
+Methods:
+
+calculatePercentFull : (50/56)*100 = 89
+addTable : numberOfTables = 29
+removeTable : numberOfTables = 27
+addNewRoom : squareFootage = 1500
