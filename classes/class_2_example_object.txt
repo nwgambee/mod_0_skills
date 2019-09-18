@@ -1,0 +1,18 @@
+Object : Noah's Oven
+
+Attributes :
+
+color : `white`
+manufacturer : `Frigidaire`
+maxTemp : 550
+currentTemp : 0
+weightInPounds : 130
+turnedOn : false
+foodInside : false
+
+Methods :
+
+paintOven : color = `black`
+turnOvenOn : turnedOn = true
+putFoodInside : foodInside = true
+removeAllFood : foodInside = false
