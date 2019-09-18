@@ -1,0 +1,16 @@
+Class : Seating Area
+
+Attributes:
+
+guestCapacity (integer)
+currentNumberOfGuests (integer)
+squareFootage (integer)
+numberOfTables (integer)
+atCapacity (boolean)
+
+Methods:
+
+calculatePercentFull (divides currentNumberOfGuests by guestCapacity)
+addTable (updates numberOfTables attribute by 1)
+removeTable (updates numberOfTables attribute by -1)
+addNewRoom (updates squareFootage attribute)
