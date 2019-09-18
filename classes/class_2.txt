@@ -1,6 +1,6 @@
 Class : Oven
 
-Attributes :
+Attributes:
 
 color (string)
 manufacturer (string)
