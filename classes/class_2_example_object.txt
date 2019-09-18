@@ -1,6 +1,6 @@
 Object : Noah's Oven
 
-Attributes :
+Attributes:
 
 color : `white`
 manufacturer : `Frigidaire`
